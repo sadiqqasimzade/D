@@ -1,0 +1,22 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.hicon{
+    height: 3rem;
+}
+.pt15{
+    padding-top: 15%;
+}
+.pb15{
+    padding-bottom: 15%;
+}
+.bcimg{
+    background-image: url(https://source.unsplash.com/5g41N3uRPf8/1500x800);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+}
